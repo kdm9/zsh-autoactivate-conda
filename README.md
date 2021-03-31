@@ -10,7 +10,7 @@ Automatically activate a conda environment defined in `./environment.yml` when
 - needs python3 & pyyaml.
 
 ```
-zgen load kdm9/zsh-autoactivate-conda
+zgenom load kdm9/zsh-autoactivate-conda
 ```
 
 
